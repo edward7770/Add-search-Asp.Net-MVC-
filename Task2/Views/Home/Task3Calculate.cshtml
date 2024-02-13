@@ -1,0 +1,47 @@
+﻿@model CalculateModel
+@{
+    ViewData["Title"] = "Calculate Employee";
+}
+
+<div class="card mb-3">
+    <div class="card-header">
+        Calculate Employee Hierarchy
+    </div>
+    <form asp-controller="Home" asp-action="Task3CalculateResult" method="post">
+        <div class="card-body">
+            <div class="card-title mb-3">Enter the <span class="fst-italic">Identifier</span> of the employee to calculate a hierarchy for.</div>
+            <div class="mb-3">
+                <label class="form-label" for="ident">Employee Identifier</label>
+                <input id="employeeIdentifier" name="employeeIdentifier" type="text" class="form-control" placeholder="" aria-label="Employee Identifier" aria-describedby="ident" value="" />
+            </div>
+
+            <div class="">
+                <button type="submit" class="btn btn-primary">Calculate</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+@if (Model != null)
+{
+    <div class="card mt-4">
+        <div class="card-header">Cost for Hierarchy of @Model.EmployeeFullName (@Model?.LastSearch)</div>
+        <div class="card-body">
+            <div class="mb-3">
+                <label class="form-label" for="ident">Monthly Salary Bill</label>
+                <div class="input-group mb-3 w-50">
+                    <span class="input-group-text" id="total">£</span>
+                    <input readonly type="text" class="form-control bg-white" aria-label="Total" aria-describedby="total" value="@string.Format("{0:N2}", Model.Total)" />
+                </div>
+            </div>
+            <div class="">
+                <label class="form-label" for="ident">Active Employees in Hierarchy</label>
+                <div class="input-group  w-50">
+                    <span class="input-group-text" id="employees">🧍</span>
+                    <input readonly type="text" class="form-control bg-white" aria-label="Employees" aria-describedby="employees" value="@Model.EmployeeCount" />
+                </div>
+            </div>
+        </div>
+    </div>
+}
+

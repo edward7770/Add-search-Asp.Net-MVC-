@@ -1,0 +1,106 @@
+C:\Users\Administrator\source\repos\Task2\Task2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\Task2\Task2\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\source\repos\Task2\Task2\bin\Debug\net6.0\Task2.staticwebassets.runtime.json
+C:\Users\Administrator\source\repos\Task2\Task2\bin\Debug\net6.0\Task2.exe
+C:\Users\Administrator\source\repos\Task2\Task2\bin\Debug\net6.0\Task2.deps.json
+C:\Users\Administrator\source\repos\Task2\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+C:\Users\Administrator\source\repos\Task2\Task2\bin\Debug\net6.0\Task2.dll
+C:\Users\Administrator\source\repos\Task2\Task2\bin\Debug\net6.0\Task2.pdb
+C:\Users\Administrator\source\repos\Task2\Task2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\Task2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\Task2.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\Task2.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\staticwebassets\msbuild.Task2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\staticwebassets\msbuild.build.Task2.props
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Task2.props
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Task2.props
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\scopedcss\bundle\Task2.styles.css
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\scopedcss\projectbundle\Task2.bundle.scp.css
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\Task2.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\Task2.dll
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\refint\Task2.dll
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\Task2.pdb
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Task2\Task2\obj\Debug\net6.0\ref\Task2.dll
+C:\Users\Administrator\source\repos\Task2\Task2\bin\Debug\net6.0\Data\Employees.json
+C:\Users\Administrator\source\repos\Task2\Task2\bin\Debug\net6.0\Data\data\Employees.json
+C:\Users\Administrator\source\repos\Task2\Task2\bin\Debug\net6.0\Data\data\Remuneration.json
+C:\Users\Administrator\source\repos\.Net Project\Task2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\.Net Project\Task2\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\source\repos\.Net Project\Task2\bin\Debug\net6.0\Data\Employees.json
+C:\Users\Administrator\source\repos\.Net Project\Task2\bin\Debug\net6.0\Task2.staticwebassets.runtime.json
+C:\Users\Administrator\source\repos\.Net Project\Task2\bin\Debug\net6.0\Task2.exe
+C:\Users\Administrator\source\repos\.Net Project\Task2\bin\Debug\net6.0\Task2.deps.json
+C:\Users\Administrator\source\repos\.Net Project\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+C:\Users\Administrator\source\repos\.Net Project\Task2\bin\Debug\net6.0\Task2.dll
+C:\Users\Administrator\source\repos\.Net Project\Task2\bin\Debug\net6.0\Task2.pdb
+C:\Users\Administrator\source\repos\.Net Project\Task2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\Task2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\Task2.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\Task2.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\staticwebassets\msbuild.Task2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\staticwebassets\msbuild.build.Task2.props
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Task2.props
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Task2.props
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\scopedcss\bundle\Task2.styles.css
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\scopedcss\projectbundle\Task2.bundle.scp.css
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\Task2.csproj.CopyComplete
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\Task2.dll
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\refint\Task2.dll
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\Task2.pdb
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\.Net Project\Task2\obj\Debug\net6.0\ref\Task2.dll
+C:\Users\Administrator\source\repos\.Net Project\Task2\bin\Debug\net6.0\Data\Remuneration.json
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\bin\Debug\net6.0\Data\Employees.json
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\bin\Debug\net6.0\Data\Remuneration.json
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\bin\Debug\net6.0\Task2.staticwebassets.runtime.json
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\bin\Debug\net6.0\Task2.exe
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\bin\Debug\net6.0\Task2.deps.json
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\bin\Debug\net6.0\Task2.dll
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\bin\Debug\net6.0\Task2.pdb
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\Task2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\Task2.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\Task2.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\staticwebassets\msbuild.Task2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\staticwebassets\msbuild.build.Task2.props
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Task2.props
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Task2.props
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\scopedcss\bundle\Task2.styles.css
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\scopedcss\projectbundle\Task2.bundle.scp.css
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\Task2.csproj.CopyComplete
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\Task2.dll
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\refint\Task2.dll
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\Task2.pdb
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\.Net Project(completed!)\Task2\obj\Debug\net6.0\ref\Task2.dll

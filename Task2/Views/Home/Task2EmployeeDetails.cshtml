@@ -1,0 +1,63 @@
+﻿@model List<EmployeeModel>
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<div class="card mb-3">
+    <div class="card-header">
+        Employee Details
+    </div>
+    <form asp-controller="Home" asp-action="Task2EmployeeDetailsResult" method="post">
+        <div class="card-body">
+            <div class="card-title mb-3">Enter the <span class="fst-italic">Full Name</span> of the employee to search for including any middle names.</div>
+            <div class="mb-3">
+                <label class="form-label" for="fullname">Full Name</label>
+                <input id="fullName" name="fullName" type="text" class="form-control" placeholder="" aria-label="Full Name" aria-describedby="fullname" value="" />
+            </div>
+
+            <div class="">
+                <button type="submit" class="btn btn-primary">Search</button>
+            </div>
+
+        </div>
+    </form>
+</div>
+
+@if (Model?.Count > 0)
+{
+    <div class="card mt-4">
+        <div class="card-header">Results</div>
+        <div class="card-body">
+            <table class="table align-middle mb-0 bg-white">
+                <thead class="bg-light">
+                    <tr>
+                        <th>EmployeeIdentifier</th>
+                        <th>Full Name</th>
+                        <th>EmailAddress</th>
+                        <th>Phone</th>
+                        <th>Division</th>
+                        <th>Leaver</th>
+                        <th>DRs</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var emp in Model)
+                    {
+                        <tr>
+                            <td>@emp.EmployeeIdentifier</td>
+                            <td>@emp.Forename @emp.MiddleNames @emp.Surname</td>
+                            <td>@emp.EmailAddress</td>
+                            <td>@emp.PhoneNumber</td>
+                            <td>@emp.Division</td>
+                            <td><div title="If true, the employee is no longer employed by the business and therefore not paid.">@emp.Leaver</div></td>
+                            <td>@emp.NumberofDirectReports</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+}
+
+
